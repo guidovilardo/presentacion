@@ -3,12 +3,10 @@
 
 [<img src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png" height="30">](https://www.instagram.com/guidovilardo/)
 
-   *Viva Peron!*         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Escudo_de_la_Provincia_de_Presidente_Per%C3%B3n_-sin_silueta-.svg/1200px-Escudo_de_la_Provincia_de_Presidente_Per%C3%B3n_-sin_silueta-.svg.png" width="20">
-
 *Jugador de Rugby* <img src="https://static.vecteezy.com/system/resources/previews/001/203/253/non_2x/wing-png.png" width="40"> <img src="http://cuq.com.ar/wp-content/uploads/2020/08/escudo2020_2.png" width="25">
 
-          *18 años
-          *85% avionico 6°2° IMPA
+          *19 años
+          *Tecnico aviónico IMPA TRQ <img src="https://static.wixstatic.com/media/ece9ad_22177441ef094a0a8dd4a5309195de7e~mv2.png/v1/fill/w_540,h_166,al_c,lg_1,q_85,enc_auto/Impa%20Logo.png" width="15">
           *Me gusta la antropologia y la medicina
 
 
