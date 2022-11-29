@@ -9,5 +9,5 @@
 
 
 
-"Yo no amenazo, solo recomiendo precaucion" - **Shreck** <img src="https://plantillasdememes.com/img/plantillas/shrek-sosteniendo-una-espada-gigante11570830240.png" width="80">
+<img src="https://toppng.com/public/uploads/thumbnail/the-vault-fallout-wiki-fallout-4-hacker-perk-11563244113bqytfr1wt2.png" width="80">
 ---
