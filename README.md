@@ -1,5 +1,5 @@
 # presentación
-<h2>Buenas, soy Guido <img src="https://thumbs.gfycat.com/FoolhardyAdmiredFairybluebird-max-1mb.gif" width="25"></h2>
+<h2>Buenas, soy Guido <img src="https://thumbs.gfycat.com/FoolhardyAdmiredFairybluebird-max-1mb.gif" width="55"></h2>
 
 [<img src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png" height="30">](https://www.instagram.com/guidovilardo/)
 
