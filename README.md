@@ -5,9 +5,9 @@
 
 *Jugador de Rugby* <img src="https://static.vecteezy.com/system/resources/previews/001/203/253/non_2x/wing-png.png" width="40"> <img src="http://cuq.com.ar/wp-content/uploads/2020/08/escudo2020_2.png" width="25">
 
-          *19 años
-          *Técnico aviónico IMPA TRQ <img src="https://static.wixstatic.com/media/ece9ad_22177441ef094a0a8dd4a5309195de7e~mv2.png/v1/fill/w_643,h_203,al_c,lg_1,q_85,enc_auto/Impa%20Logo.png" width="15">
-          *Bioinformática
+*19 años
+*Técnico aviónico IMPA TRQ <img src="https://static.wixstatic.com/media/ece9ad_22177441ef094a0a8dd4a5309195de7e~mv2.png/v1/fill/w_643,h_203,al_c,lg_1,q_85,enc_auto/Impa%20Logo.png" width="15">
+*Bioinformática
 
 
 
