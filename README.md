@@ -7,7 +7,7 @@
 
           *19 años
           *Técnico aviónico IMPA TRQ <img src="https://static.wixstatic.com/media/ece9ad_22177441ef094a0a8dd4a5309195de7e~mv2.png/v1/fill/w_643,h_203,al_c,lg_1,q_85,enc_auto/Impa%20Logo.png" width="15">
-          *Me gusta la antropologia y la medicina
+          *Bioinformática
 
 
 
